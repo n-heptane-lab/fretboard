@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f011ac92-682f-4725-9891-fec50121b2c2",
+	"author":	"Jerem Shaw",
+	"description":	{
+		"":	"Generate a Fretboard\t"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
